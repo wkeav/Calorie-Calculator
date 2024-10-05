@@ -74,8 +74,6 @@ public class CalorieCalculator{
         }
 
 
-
-        // Display the results
         System.out.println("Your Basal Metabolic Rate (BMR) is: " + (int) bmr + " calories per day.");
         System.out.println("Your estimated daily calorie needs are: " + (int) calorieNeeds + " calories per day.");
 
